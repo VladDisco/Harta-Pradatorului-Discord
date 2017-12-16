@@ -1,0 +1,13 @@
+Aici vei gasi comenzile de a da flood la urmatoarele persoane din server-ul WonderLand. Pentru a le folosi, deschide Command Prompt si copiaza comenzile. Iar dupa, apasa Enter. Iar dupa, persoana respectiva va avea 2-3 minute flood.
+
+Stefania: Net Stop wiev:// 242731796494548992
+
+Amy: Net Stop wiev:// 243001825475690497
+
+iStorm: Net Stop wiev:// 252024414529388548
+
+Ocean69: Net Stop wiev:// 292342682531921922
+
+Cox: Net Stop wiev:// 239065879306960907
+
+Doom: Net Stop wiev:// 218808258205450240
